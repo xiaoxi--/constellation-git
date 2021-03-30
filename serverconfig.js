@@ -12,9 +12,7 @@
 
     //聚合KEY
     var Constellation={
-        key:'2e7c1ad4a3b994a954fdbf3739ada04e', //158
-        key1:'ddfbd6713f5e6f24fbb7f3549a096aa1' //迷歌
-        //key:'128f574b559b03d93856b7e814543f71' //叶哥
+        key:'00000'
     };
 
     module.exports = {
